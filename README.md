@@ -65,7 +65,7 @@ Correct data types are necessary for:
 
 ---
 
-## 🔹 4. Active Case Calculation
+##  4. Active Case Calculation
 
 A new column named **Active** was created using:
 
@@ -77,7 +77,7 @@ The formula was implemented using DataFrame column operations.
 
 ---
 
-## 🔹 5. Latest Date Analysis
+##  5. Latest Date Analysis
 
 The latest available date in dataset was extracted using:
 
